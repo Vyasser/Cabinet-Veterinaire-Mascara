@@ -417,6 +417,11 @@ header .container .header__content p {
 }
 
 @media screen and (max-width: 1024px){
+
+    #specialists .container{
+        display: block;
+    }
+    
     #specialists .container .information{
         width: 100vw;
     }
@@ -912,3 +917,4 @@ border: none;
 font-size: 14px;
 
 }
+
