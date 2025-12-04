@@ -433,6 +433,10 @@ header .container .header__content p {
         height: max-content;
     }
 
+    #specialists .container{
+        display: inline;
+    }
+
     #specialists .container .information{
         height: fit-content;
         width: 80vw;
@@ -906,4 +910,5 @@ padding: 6px 12px;
 border-radius: 10px;
 border: none;
 font-size: 14px;
+
 }
