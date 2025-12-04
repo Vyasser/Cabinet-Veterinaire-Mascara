@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cabinet Vétérinaire Mascara</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+    <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <link rel="icon" type="image/png" href="logo1.2-removebg-preview.png" />
+
+  </head>
+
+  <body>
+    <nav dir="ltr">
+      <div class="container">
+        <div class="logo">
+          <a href="#"><img src="logo1.png" alt="logo" /></a>
+        </div>
+
+        <ul id="nav__items">
+          <li><a href="#Home" data-translate="nav_home"></a></li>
+          <li><a href="#services" data-translate="nav_services"></a></li>
+          <li><a href="#specialists" data-translate="nav_specialists"></a></li>
+          <li><a href="#testimonials" data-translate="nav_testimonials"></a></li>
+          <li><a href="#foot" data-translate="nav_more"></a></li>
+        </ul>
+
+        <div class="lang-switcher">
+          <select id="languageSelect">
+            <option value="en">EN</option>
+            <option value="fr">FR</option>
+            <option value="ar">AR</option>
+          </select>
+        </div>
+
+        <button id="open__nav-btn"><i class="bx bx-menu"></i></button>
+        <button id="close__nav-btn"><i class="bx bx-x"></i></button>
+      </div>
+    </nav>
+
+    <header id="Home">
+      <div class="container">
+        <div class="header__image">
+          <img src="Veterinary_amin/DrAmine.jpg" alt="Header Image" />
+        </div>
+
+        <div class="header__content">
+          <h1 data-translate="Welcome"></h1>
+          <h1>
+            <span data-translate="header_title"></span>
+            <br />
+            <span id="petfriends" class="typing"></span> <small class="ecreer">|</small>
+          </h1>
+
+          <p data-translate="header_desc"></p>
+        </div>
+      </div>
+    </header>
+    <section id="services">
+      <h2 data-translate="services_title"></h2>
+      <p data-translate="services_desc"></p>
+
+      <div class="container">
+
+        <article>
+          <i class="bx bxs-injection"></i>
+          <div>
+            <h4 data-translate="service1_title"></h4>
+            <small data-translate="service1_desc"></small>
+          </div>
+        </article>
+
+        <article>
+          <i class="bx bx-support"></i>
+          <div>
+            <h4 data-translate="service2_title"></h4>
+            <small data-translate="service2_desc"></small>
+          </div>
+        </article>
+
+        <article>
+          <i class="bx bx-home-heart"></i>
+          <div>
+            <h4 data-translate="service3_title"></h4>
+            <small data-translate="service3_desc"></small>
+          </div>
+        </article>
+
+        <article>
+          <i class="bx bx-infinite"></i>
+          <div>
+            <h4 data-translate="service4_title"></h4>
+            <small data-translate="service4_desc"></small>
+          </div>
+        </article>
+
+        <article>
+          <i class="bx bx-first-aid"></i>
+          <div>
+            <h4 data-translate="service5_title"></h4>
+            <small data-translate="service5_desc"></small>
+          </div>
+        </article>
+
+        <article>
+          <i class='bx  bx-band-aid'></i> 
+          <div>
+            <h4 data-translate="service6_title"></h4>
+            <small data-translate="service6_desc"></small>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <section id="specialists">
+      <h2 data-translate="specialists_title"></h2>
+
+      <div class="container" id="inf-cont">
+        <article id="inf_img">
+          <div class="specialist__image">
+            <img src="Veterinary_amin/Amin&dog.jpg" alt="Specialist" />
+          </div>
+          <div class="specialist__details">
+            <h4 data-translate="specialist1_name"></h4>
+            <small data-translate="specialist1_role"></small>
+          </div>
+          <div class="specialist__socials">
+
+            <a href="https://www.google.com/maps/dir/?api=1&destination=94XX%2B5M2%2C%20Mascara" target="_blank">
+              <i class="bx bxs-map"></i>
+            </a>
+
+            <a href="https://www.facebook.com/profile.php?id=100092851803876" target="_blank"
+              ><i class="bx bxl-facebook"></i
+            ></a>
+          </div>
+
+          <a href="https://wa.me/2130771298140?text=Bonjour%20je%20voudrais%20avoir%20des%20informations" class="specialist__whatsapp"  target="_blank">
+            <i class="bx bxl-whatsapp"></i>
+          </a>
+        </article>
+        <article id="inf" class="information">
+          <h1 data-translate="specialist1_name"></h1>
+          <p data-translate="para-info"></p>
+        </article>
+      </div>
+    </section>
+
+    <section id="testimonials" class="swiper mySwiper">
+      <h2 data-translate="testimonials_title"></h2>
+      <p data-translate="testimonials_desc"></p>
+
+      <div class="swiper-wrapper" dir="ltr">
+
+        <article class="swiper-slide">
+          <div>
+            <p title="" data-translate="t1"></p>
+          </div>
+          <div class="petowner">
+            <div class="avatar">
+              <img src="Veterinary_amin/dog1.jpg">
+            </div>
+          </div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t2"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/cat1.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t3"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/tumor.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t4"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/amine&cat.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t5"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/Tongue.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t6"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/amine&god2 (1).jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t7"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/splint.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t8"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/In a house.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t9"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/l'utérus.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t10"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/Upper jaw.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t11"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/Scottish.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t12"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/Haircut.jpg"></div></div>
+        </article>
+
+        <article class="swiper-slide">
+          <p data-translate="t13"></p>
+          <div class="petowner"><div class="avatar"><img src="Veterinary_amin/Billy and Lisa.jpg"></div></div>
+        </article>
+
+      </div>
+
+      <div class="swiper-pagination"></div>
+    </section>
+    <footer id="foot" dir="ltr">
+      <div class="container">
+        <article>
+          <a href="#" class="logo"><img src="logo1.png" alt="Logo"></a>
+          <p data-translate="footer_desc"></p>
+
+          <div>
+            <i class='bx bx-phone'></i>
+            <small data-translate="footer_phone">+213 07 71 29 81 40</small>
+          </div>
+
+          <div>
+            <i class='bx bx-mail-send'></i>
+            <small data-translate="footer_email"></small>
+          </div>
+        </article>
+
+        <article>
+          <h3 data-translate="footer_permalinks"></h3>
+          <a href="#Home" data-translate="nav_home"></a>
+          <a href="#services" data-translate="nav_services"></a>
+          <a href="#specialists" data-translate="nav_specialists"></a>
+          <a href="#testimonials" data-translate="nav_testimonials"></a>
+        </article>
+
+        <article>
+          <h3 data-translate="footer_contactus"></h3>
+          <p data-translate="footer_press"></p>
+          <p data-translate="footer_faqs"></p>
+          <div>
+              <a href="https://www.google.com/maps/dir/?api=1&destination=94XX%2B5M2%2C%20Mascara" target="_blank">
+                <i class="bx bxs-map"></i>
+              </a>
+
+              <a href="https://www.facebook.com/profile.php?id=+2130771298140" target="_blank">
+                <i class="bx bxl-facebook"></i>
+              </a>
+
+              <a href="https://wa.me/2130771298140?text=Bonjour%20je%20voudrais%20avoir%20des%20informations" class="specialist__whatsapp"  target="_blank">
+                <i class="bx bxl-whatsapp"></i>
+              </a>
+          </div>
+        </article>
+
+        <article class="rating">
+          <div id="rating-container">
+            <h3 data-translate="footer_rate"></h3>
+            <div id="stars">
+              <span data-value="1">★</span>
+              <span data-value="2">★</span>
+              <span data-value="3">★</span>
+              <span data-value="4">★</span>
+              <span data-value="5">★</span>
+            </div>
+            <p id="rating-result"></p>
+
+            <h4 data-translate="footer_average"></h4>
+            <p id="average-rating">--</p>
+          </div>
+        </article>
+      </div>
+
+      <div class="copyright">
+        <small>&copy; Designed and developed by 
+          <a href="https://www.instagram.com/v_yas_ser" target="_blank">Chelali</a>
+        </small>
+      </div>
+    </footer>
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+    <script src="Js/translate.js"></script>
+    <script src="Js/main.js" async></script>
+
+  </body>
+</html>

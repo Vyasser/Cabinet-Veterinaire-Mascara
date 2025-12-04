@@ -1,0 +1,64 @@
+{
+  "nav_home": "Home",
+  "nav_services": "Services",
+  "nav_specialists": "About",
+  "nav_testimonials": "My works",
+  "nav_more": "More",
+
+  "Welcome":"Welcome to Dr.Refas Amine’s Veterinary Clinic.",
+  "header_title": "Complete Health Care Solutions for your",
+  "header_desc": "Cabinet Vétérinaire Mascara Hub provides compassionate care and cutting-edge solutions for your furry companions. Schedule an appointment today!",
+
+  "services_title": "Our Services",
+  "services_desc": "Cabinet Vétérinaire Mascara Hub offers a range of services to ensure the well-being of your pets. Discover how we can help.",
+
+  "service1_title": "Vaccination, prevention and nutrition",
+  "service1_desc": "Provision of all necessary vaccines, regular preventative programs, and nutritional advice tailored to each animal.",
+
+  "service2_title": "Online Support",
+  "service2_desc": "Our online support system ensures that you can reach us anytime, anywhere, for pet-related guidance.",
+
+  "service3_title": "Home Visit Requests",
+  "service3_desc": "Easily request a veterinarian to visit your home for comfortable pet care.",
+
+  "service4_title": "24/7 Service",
+  "service4_desc": "We are available around the clock to address any emergencies or concerns you may have about your pet's health.",
+
+  "service5_title": "Emergency Veterinary Care",
+  "service5_desc": "We offer rapid intervention and provide urgent and effective care to save animal lives, using advanced emergency equipment and supplies.",
+
+  "service6_title": "Surgery and medical imaging",
+  "service6_desc": "Various surgeries performed by a specialist veterinarian, supported by medical imaging services for accurate diagnosis and treatment.",
+
+  "specialists_title": "About",
+
+  "specialist1_name": "Dr. Refas Amine",
+  "specialist1_role": "Doctor of Veterinary Medicine",
+
+  "testimonials_title": "My works",
+  "testimonials_desc": "Some of my various veterinary works",
+
+  "t1": "Look how beautiful these dogs' smiles are, may God protect them.",
+  "t2": "The most beautiful feeling is rescuing the cat Luna and her kittens late at night after a difficult birth by performing an emergency surgical procedure.",
+  "t3": "A three-hour surgery was performed to remove a very dangerous tumor from the chest of a 10-year-old cat.",
+  "t4": "The doctor works with such focus and gentle hands. He heals pets with great expertise and compassion.",
+  "t5": "Today we sewed up a cat's tongue that was almost completely torn off, after a violent fight with another cat.",
+  "t6": "Surgical intervention to remove a tumor in a German Shepherd.",
+  "t7": "Urgent intervention late at night. A cat fell from the fifth floor. We took an X-ray and found a fracture in its right paw, so we put it in a cast.",
+  "t8": "I went to a customer's house to neuter his beautiful cat and help him take care of it in a wonderful and inspiring way.",
+  "t9": "Surgical removal of a uterus affected by endometriosis and ovarian cysts in this beautiful 10-year-old cat.",
+  "t10": "The upper jaw of this beautiful cat was stitched up after she was in an accident.",
+  "t11":"The Scottish Fold is a friendly and social cat that adapts well to home life. It enjoys interacting with people and other pets and can comfortably live in an apartment.",
+  "t12":"The temps devient of more room and les chats love a coupe de cheveux",
+  "t13":"Spaying Billy and Lisa using the latest surgical techniques with very small incisions, maintaining strict hygiene, and providing post-operative medical follow-up.",
+
+  "footer_desc": "Discover the compassionate care for your pets at Cabinet Vétérinaire Mascara Hub.",
+  "footer_permalinks": "Permalinks",
+  "footer_contactus": "Contact Us",
+  "footer_press": "Press",
+  "footer_faqs": "FAQs",
+  "footer_rate": "Rate Our Services",
+  "footer_average": "Average Rating:",
+
+  "para-info":"I am Dr. Refas Amine, a veterinarian specializing in animal medical care, surgery, and preventative medicine. I provide comprehensive consultations, accurate diagnoses, and rigorous health monitoring. I handle emergencies, perform surgical procedures with medical imaging, and offer tailored vaccination, preventative, and nutritional programs. My goal is to provide professional and personalized care to ensure the health and well-being of your animals."
+}

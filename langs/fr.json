@@ -1,0 +1,65 @@
+{
+  "nav_home": "Accueil",
+  "nav_services": "Services",
+  "nav_specialists": "À propos",
+  "nav_testimonials": "Mes œuvres",
+  "nav_more": "Plus",
+
+  "Welcome":"Bienvenue à la clinique vétérinaire du Dr.Refas Amine.",
+  "header_title": "Des solutions complètes de soins pour votre",
+  "header_desc": "Cabinet Vétérinaire Mascara Hub offre des soins compatissants et des solutions de pointe pour vos compagnons. Prenez rendez-vous dès aujourd’hui !",
+
+  "services_title": "Nos Services",
+"services_desc": "Nous proposons une large variété de services vétérinaires afin d’assurer la santé, le confort et le bien-être de vos animaux tout au long de l’année.",
+
+"service1_title": "Vaccination, prévention et nutrition",
+"service1_desc": "Fourniture de tous les vaccins nécessaires, programmes de prévention réguliers et conseils nutritionnels adaptés à chaque animal.",
+
+"service2_title": "Support en Ligne",
+"service2_desc": "Notre service d’assistance en ligne est disponible à tout moment pour répondre à vos questions et vous fournir des conseils fiables.",
+
+"service3_title": "Visite à Domicile",
+"service3_desc": "Demandez facilement une visite vétérinaire à domicile pour examiner votre animal et lui offrir des soins sans stress.",
+
+"service4_title": "Service 24/7",
+"service4_desc": "Nous sommes disponibles 24h/24 et 7j/7 pour répondre rapidement à vos urgences et intervenir sans attendre.",
+
+"service5_title": "Soins d’Urgence",
+"service5_desc": "Nous proposons une intervention rapide et des soins urgents et efficaces pour sauver des vies animales, grâce à un équipement et des fournitures d'urgence de pointe.",
+
+"service6_title": "Chirurgie et imagerie médicale",
+"service6_desc": "Chirurgies variées réalisées par un vétérinaire spécialisé, soutenues par des services d’imagerie médicale pour un diagnostic et un traitement précis.",
+
+
+  "specialists_title": "À propos",
+
+  "specialist1_name": "Dr. Refas Amine",
+  "specialist1_role": "Docteur en Médecine Vétérinaire",
+
+  "testimonials_title": "Mes œuvres",
+  "testimonials_desc": "Quelques-uns de mes travaux vétérinaires.",
+
+  "t1": "Regardez comme les sourires de ces chiens sont beaux, que Dieu les protège.",
+  "t2": "Le plus beau sentiment est de sauver la chatte Luna et ses chatons tard dans la nuit après une mise bas difficile, en pratiquant une intervention chirurgicale d'urgence.",
+  "t3": "Une intervention chirurgicale de trois heures a été pratiquée pour retirer une tumeur très dangereuse de la poitrine d'un chat de 10 ans.",
+  "t4": "Le docteur travaille avec douceur et précision, ce qui inspire vraiment confiance.",
+  "t5": "Aujourd'hui, nous avons recousu la langue d'un chat qui avait été presque entièrement arrachée, après une violente bagarre avec un autre chat.",
+  "t6": "Intervention chirurgicale pour ablation d'une tumeur chez un berger allemand.",
+  "t7": "Intervention urgente en pleine nuit. Un chat est tombé du cinquième étage. Une radiographie a révélé une fracture à sa patte droite. il a donc été plâtré.",
+  "t8": "Je suis allée chez un client pour stériliser son magnifique chat et l'aider à s'en occuper d'une manière merveilleuse et inspirante.",
+  "t9": "Ablation chirurgicale d'un utérus atteint d'endométriose et de kystes ovariens chez cette magnifique chatte de 10 ans.",
+  "t10": "La mâchoire supérieure de cette magnifique chatte a été recousue après un accident.",
+  "t11":"Le Scottish Fold est un chat sociable et affectueux, qui s’adapte bien à la vie à la maison. Il aime interagir avec les humains et les autres animaux, et peut vivre confortablement en appartement.",
+  "t12":"Le temps devient plus chaud et les chats veulent une coupe de cheveux ",
+  "t13":"Stérilisation de Billy et Lisa avec les dernières techniques chirurgicales, utilisant de très petites incisions, en assurant une hygiène rigoureuse et un suivi médical après l’opération.",
+
+  "footer_desc": "Découvrez nos soins compatissants pour vos animaux.",
+  "footer_permalinks": "Liens",
+  "footer_contactus": "Contact",
+  "footer_press": "Presse",
+  "footer_faqs": "FAQs",
+  "footer_rate": "Évaluez nos services",
+  "footer_average": "Note Moyenne :",
+
+  "para-info":"Je suis le Dr Refas Amine, vétérinaire spécialisé(e) dans les soins médicaux, la chirurgie et la prévention animale. J’assure des consultations complètes, des diagnostics précis et un suivi de santé rigoureux. Je prends en charge les urgences, réalise des interventions chirurgicales avec imagerie médicale, et propose des programmes de vaccination, de prévention et de nutrition adaptés. Mon objectif est d’offrir des soins professionnels et personnalisés pour garantir la santé et le bien-être de vos animaux."
+}
