@@ -159,7 +159,7 @@ if (window.innerWidth > 600) {
 }
 
 
-if (window.innerWidth < 600) {
+if (window.innerWidth <= 600) {
   inf_cont.addEventListener("mouseenter", () => {
     inf_cont.style.display = 'grid';
     inf.style.display = 'block';
@@ -169,3 +169,4 @@ if (window.innerWidth < 600) {
     inf.style.display = 'none';
   });
 }
+
