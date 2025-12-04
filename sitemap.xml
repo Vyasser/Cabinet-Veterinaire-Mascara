@@ -9,4 +9,28 @@
     <priority>1.0</priority>
   </url>
 
+  <!-- القسم: الخدمات -->
+  <url>
+    <loc>https://vyasser.github.io/Cabinet-Veterinaire-Mascara/index.html#services</loc>
+    <lastmod>2025-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- القسم: عن العيادة -->
+  <url>
+    <loc>https://vyasser.github.io/Cabinet-Veterinaire-Mascara/index.html#about</loc>
+    <lastmod>2025-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- القسم: تواصل معنا -->
+  <url>
+    <loc>https://vyasser.github.io/Cabinet-Veterinaire-Mascara/index.html#contact</loc>
+    <lastmod>2025-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
